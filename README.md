@@ -1,6 +1,10 @@
 # transparent_plaintext-linux-manpages
+> **Project Tags:** #Linux #ManPages #Plaintext #Kernel #Archimedes-Lever #ACGT
+> **Ethos:** #Privacy #No-Telemetry #Offline-Ready #Agnostic #Minimalist #Reverse-Fuckery
 
-The official Linux manual pages, converted to plaintext.
+A neutral, unfiltered mirror of Linux man-pages v6.9 from kernel.org. 
+Zero formatting, zero agenda, zero overhead. 
+
 
 ## What this is
 This repository contains the plaintext content of the Linux man-pages "book" originally hosted as a PDF at [kernel.org](https://kernel.org). 
