@@ -1,7 +1,6 @@
 # transparent_plaintext-linux-manpages
-> **Project Tags:** #Linux #ManPages #Plaintext #Kernel #Archimedes-Lever #ACGT
+> **Project:** #Linux #ManPages #Plaintext #Kernel-6-9 #Archimedes-Lever #ACGT
 > **Ethos:** #Privacy #No-Telemetry #Offline-Ready #Agnostic #Minimalist #Reverse-Fuckery
-
 A neutral, unfiltered mirror of Linux man-pages v6.9 from kernel.org. 
 Zero formatting, zero agenda, zero overhead. 
 
