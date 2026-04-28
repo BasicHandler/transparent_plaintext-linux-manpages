@@ -1,0 +1,35 @@
+#Man-pages 
+
+
+This repository is a collection of manual pages from the Linux man-pages project. 
+
+The individual manual pages are authored by various contributors and are distributed under several different free software licenses. These include, but are not limited to:
+- The GNU General Public License (GPL)
+- The BSD License
+- The Linux man-pages "verbatim" distribution license
+
+The specific license for any given page is typically located in the source comments (header) of that page's text file. By providing these pages in plaintext, these original headers and copyright notices have been preserved to the best of my ability.
+
+This collection is distributed as-is, following the redistribution rights granted by the original authors.
+
+
+#The ACGT
+
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2024 BasicHandler
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+
+https://www.gnu.org/licenses/gpl-3.0.en.html
