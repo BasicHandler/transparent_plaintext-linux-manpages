@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archimedes v2.1 - Linux Manpages 6.9</title>
+    <style>
+        body { background: #000; color: #0f0; font-family: 'Courier New', monospace; padding: 20px; line-height: 1.2; }
+        
+        #archimedes-panel { 
+            position: fixed; bottom: 20px; right: 20px; 
+            background: #222; border: 2px solid #0f0; 
+            padding: 15px; z-index: 9999; box-shadow: 10px 10px 0px #111;
+        }
+
+        input { background: #000; color: #0f0; border: 1px solid #0f0; padding: 10px; width: 200px; outline: none; }
+        button { background: #0f0; color: #000; border: none; padding: 10px; font-weight: bold; cursor: pointer; margin-left: 5px; }
+        button:active { background: #0a0; }
+
+        pre { white-space: pre-wrap; word-wrap: break-word; margin-top: 20px; font-size: 14px; }
+        #status { font-size: 10px; margin-top: 5px; color: #0f0; }
+    </style>
+</head>
+<body>
+
+    <div id="archimedes-panel">
+        <input type="text" id="searchTerm" placeholder="Regex Search...">
+        <button onclick="lever()">FIND</button>
+        <button onclick="window.scrollTo(0,0)">TOP</button>
+        <div id="status">Priming engine...</div>
+    </div>
+
+    <pre id="content">Loading raw documentation...</pre>
+
+    <!-- The Archimedes Ghost Engine -->
+    <script src="engine.js"></script>
+</body>
+</html>
+
