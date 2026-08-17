@@ -6,8 +6,8 @@ A neutral, unfiltered mirror of Linux man-pages v6.9 from kernel.org.
 Zero formatting, zero agenda, zero overhead. 
 
 
-## What this is
-This repository contains the plaintext content of the Linux man-pages "book" originally hosted as a PDF at [kernel.org](https://kernel.org). 
+## Core Concept 
+The repository provides a plaintext option  of the Linux man-pages, as-is, verbatim. The document originally is hosted in PDF format at [kernel.org](https://kernel.org) 
 
 The purpose is to provide the documentation in a transparent, readable format without PDF overhead.
 
